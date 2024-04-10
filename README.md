@@ -1,4 +1,4 @@
-# Data Cleaning in Excel
+# Data Analysis in Excel
 
 ### Project Overview
 
