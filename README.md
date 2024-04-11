@@ -12,7 +12,7 @@ Sales Data: The primary dataset used for this project is a sales data in "data c
 
 
 Data cleaning tools:
- _ Table 
+- Table 
 - Border tool 
 - Column header 
 - Remove duplicate  
