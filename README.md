@@ -20,6 +20,14 @@ Data cleaning tools:
 - Proper function 
 - Concatenate 
 - Past as value 
-- Alignment too - 
+- Alignment tool
+
+ Exploratory Analysis tool:
+ - Pivot table
+
+ Visualization tools:
+ - Charts
+ - Shapes
+ - Slicer
  
 
