@@ -6,7 +6,7 @@ This data analysis project aims to provide insight into the sales performance of
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this project is a sales data set gotten from one of the tutorial project done by Kevin Stratvert on youtube. The dataset contains detailed information about sales of different Apple product including sales method, unit cost, revenue, expenses and other important information. The dataset was delibrately made dirty for the sake of demonstrating this project. 
+Sales Data: The primary dataset used for this project is a sales data in "data cleaning in Excel file" The dataset contains detailed information about sales of different Apple product including sales method, unit cost, revenue, expenses and other important information. The dataset was initially dirty hence had to be cleaned to be fit for analysis and visualization.
 
 ### Excel Tools 
 
