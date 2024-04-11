@@ -8,9 +8,11 @@ This data analysis project aims to provide insight into the sales performance of
 
 Sales Data: The primary dataset used for this project is a sales data in "data cleaning in Excel" file. The dataset contains detailed information about sales of different Apple product including sales method, unit cost, revenue, expenses and other important information. The dataset was initially dirty hence had to be cleaned to be fit for analysis and visualization.
 
-### Excel Tools 
+### Excel Tools Used
 
-- Table - All data in the spreadsheet were formated as table using the table tool in order to make the data easy to manage and work with
+
+Data cleaning tools:
+_ Table, 
 - Border tool - Borders were inserted into the table using the border tool in the home page in order to highlight data, improve visability and seperate one cell from another.
 - Column header - Each field was formated using the column header in order to help easily identify what each field is about and how it relates to other fields of data.
 - Remove duplicate - Duplicates were removed by applying the remove duplicate tool on the home tab which reduced row from 200 to 199 after which serial numbers were adjusted to show the right amount of rows after removing duplicates
