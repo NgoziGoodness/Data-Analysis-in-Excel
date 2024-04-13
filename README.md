@@ -1,5 +1,19 @@
 # Apple Products Sales Analysis in Excel
 
+## Table of content
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Excel Tools](#excel-tools-used)
+- [Data Cleaning/ Preparation](#data-cleaning-/-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Visualization](#visualization)
+- [Results/Findings](#results-/-findings)
+- [Recommendations](#recommendations)
+- [Reference](#reference)
+ 
+  
+
 ### Project Overview
 
 This data analysis project aims to provide insight into the sales performance of an apple product retailing company in the past year. By analysing various aspects of the sales data, we want to identify trends, gain depper understanding of the company's performance and make data driven recommendation. The process used in this analysis are broken into 3 major stages_ Data cleaning, exploratory analysis and data visualization using dashboard.
