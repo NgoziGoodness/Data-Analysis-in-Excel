@@ -73,6 +73,16 @@ After visualizing our analysis on different charts, I created dashboard to bring
   Which sales method is more effective?
 
 
+  ### Results/Fndings
+
+  The analysis reults are summerized as follows:
+
+  1. The company's sales started on a good note in the first month after which sales became inconsistent with little to no improvement but gradually picked up in July with a noticable peak in the month of August followed by gradual decline and inconsistency in sales with december recording the lowest sales for the year.
+  2. Apac has the highest sales record while Emea has the lowest.
+  3. Macbook is the highest selling product while Iwatch is the lowest selling product.
+  4. In-store method is the most effective sales method.
+
+
 
 
 
