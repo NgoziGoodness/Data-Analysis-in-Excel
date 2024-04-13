@@ -90,6 +90,9 @@ After visualizing our analysis on different charts, I created dashboard to bring
      - Focus on expanding and promoting Macbooks and Iphones which are the top selling products.
      - Implement more instore method of selling and its the most effective method.
      - Invest more in the highest selling regions and implement trategies to duplicate the success in the highest selling region in the lowest selling region.
+    
+       ### Reference
+       [https://revenuegrid.com/blog/sales-trend-analysis/]
 
 
 
