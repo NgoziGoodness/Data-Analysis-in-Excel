@@ -82,6 +82,14 @@ After visualizing our analysis on different charts, I created dashboard to bring
   2. Apac has the highest sales record while Emea has the lowest.
   3. Macbook is the highest selling product while Iwatch is the lowest selling product.
   4. In-store method is the most effective sales method.
+ 
+     ### Recommendations
+
+     Based on the analysis, we recommend the following actions:
+     - Invest in marketing and promotions during peak sales period to maximise revenue.
+     - Focus on expanding and promoting Macbooks and Iphones which are the top selling products.
+     - Implement more instore method of selling and its the most effective method.
+     - Invest more in the highest selling regions and implement trategies to duplicate the success in the highest selling region in the lowest selling region.
 
 
 
