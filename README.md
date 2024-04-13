@@ -45,4 +45,34 @@ The firs step taken in this sales analysis project is data cleaning. This was do
 - Past as value: After the afore mention steps have been taken, the final cleaned data for fields titled Region and sales method were copied and pasted as values in the right column on the table while the extra fields no longer needed were deleted.
 - Alignment too: Finally all the cells were center aligned to make them uniform and attractive using the alignment tool in the home tab.
 
+- ### Exploratory Data analysis
+
+ EDA involves exploring the sales data to answer questions such as:
+ 1. What is the overall sales trend?
+ 2. Which regions has the highest and lowest sales?
+ 3. Which product has the highest and lowest sales?
+ 4. Which sales method is more effective?
+ Pivot table was the major tool used to analyze the sales data. Each question was answered by inserting pivot table on a different page and analyzing after which the information gotten was displayed on charts.
+
+
+### Visualization
+
+All anlysis done were represented on different charts as outlined below
+- Line chart for sales trend
+- Bar charts for sales by region
+- Column charts for sales by products
+- Pie charts for sales method
+After visualizing our analysis on different charts, I created dashboard to bring all the information represented on the different charts to one spot and to make the visualization dynamic.
+(See uploaded file named "Exploratory data analysis on sales along with dashboard using Excel" file uploaded in repository)
+
+  
+
+  What is the overall sales trend?
+  Which region has the highest and lowest sales?
+  Which product has the highest and lowest sales?
+  Which sales method is more effective?
+
+
+
+
 
