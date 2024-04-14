@@ -61,11 +61,19 @@ The firs step taken in this sales analysis project is data cleaning. This was do
 
 - ### Exploratory Data analysis
 
- EDA involves exploring the sales data to answer questions such as:
+ EDA was done by using pivot table to explore the sales data to answer questions such as:
  1. What is the overall sales trend?
- 2. Which regions has the highest and lowest sales?
- 3. Which product has the highest and lowest sales?
- 4. Which sales method is more effective?
+ 2. ![Sales Trend](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/8f3ae465-03e2-4711-a64d-744f1f729964)
+
+ 3. Which regions has the highest and lowest sales?
+ 4. ![Sales by Region](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/8023d10f-f7da-405b-ba36-ae8c34b9f11f)
+
+ 5. Which product has the highest and lowest sales?
+ 6. ![Sales by Products](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/deeb9ee3-c256-4758-8949-4d6420114f69)
+
+ 7. Which sales method is more effective?
+ 8. ![Sales Method](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/e7ba430f-d74f-4862-a19e-d8c9d49dfe94)
+
  Pivot table was the major tool used to analyze the sales data. Each question was answered by inserting pivot table on a different page and analyzing after which the information gotten was displayed on charts.
 
 
