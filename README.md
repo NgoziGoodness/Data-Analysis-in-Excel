@@ -77,14 +77,10 @@ All anlysis done were represented on different charts as outlined below
 - Column charts for sales by products
 - Pie charts for sales method
 After visualizing our analysis on different charts, I created dashboard to bring all the information represented on the different charts to one spot and to make the visualization dynamic.
-(See uploaded file named "Exploratory data analysis on sales along with dashboard using Excel" file uploaded in repository)
 
-  
+![Dashboard](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/b3883206-43a7-4998-b53f-cf622a259cd7)
 
-  What is the overall sales trend?
-  Which region has the highest and lowest sales?
-  Which product has the highest and lowest sales?
-  Which sales method is more effective?
+(See uploaded file named "Exploratory data analysis on sales along with dashboard using Excel" file uploaded in repository for details)
 
 
   ### Results/Fndings
