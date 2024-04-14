@@ -71,10 +71,10 @@ The firs step taken in this sales analysis project is data cleaning. This was do
  5. Which product has the highest and lowest sales?
  6. ![Sales by Products](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/deeb9ee3-c256-4758-8949-4d6420114f69)
 
- 7. Which sales method is more effective?
+ 7. Which sales method is most effective?
  8. ![Sales Method](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/e7ba430f-d74f-4862-a19e-d8c9d49dfe94)
 
- Pivot table was the major tool used to analyze the sales data. Each question was answered by inserting pivot table on a different page and analyzing after which the information gotten was displayed on charts.
+ Pivot table was the major tool used to analyze the sales data. Each question was answered by inserting pivot table on a different page and analyzed after which the information gotten was displayed on charts.
 
 
 ### Visualization
