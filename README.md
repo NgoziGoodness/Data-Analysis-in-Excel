@@ -48,11 +48,11 @@ Data cleaning tools:
  ### Data Cleaning/ Preparation
  
  
-The firs step taken in this sales analysis project is data cleaning. This was done to remove any outliers, inconsistency and ensure data is ready and suitable for exploratory analysis and viusualization. The data cleaning was done with different data cleaning tools and in accordance to the steps written below:
-- Table: All data in the spreadsheet were formatted as table using the table tool in order to make the data easy to manage and work wit
+The first step taken in this sales analysis project is data cleaning. This was done to remove any outliers, inconsistency and ensure data is ready and suitable for exploratory analysis and viusualization. The data cleaning was done with different data cleaning tools in accordance to the steps written below:
+- Table: All data in the spreadsheet were formatted as table using the table tool in order to make the data easy to manage and work with
 - Border tool: Borders were inserted into the table using the border tool in the home page in order to highlight data, improve visibility and separate one cell from another.
 - Column header: Each field was formatted using the column header in order to help easily identify what each field is about and how it relates to other fields of data.
-- Remove duplicate: Duplicates were removed by applying the remove duplicate tool on the home tab which reduced row from 200 to 199 after which serial numbers were adjusted to show the right amount of rows after removing duplicates
+- Remove duplicate: Duplicates were removed by applying the remove duplicate tool on the home tab which reduced number of rows from 200 to 199 after which serial numbers were adjusted to show the right amount of rows after removing duplicates
 - Trim function: Trim function was used to remove all wrong spaces in each cell.
 - Proper function: Proper function was used to make each text string in the field titled region begin with capital letters
 - Concatenate: Text strings in fields labeled Column2 and Region2 were combined together to give complete name for each region using the Concatenate function.
@@ -84,7 +84,7 @@ All anlysis done were represented on different charts as outlined below
 - Bar charts for sales by region
 - Column charts for sales by products
 - Pie charts for sales method
-After visualizing our analysis on different charts, I created dashboard to bring all the information represented on the different charts to one spot and to make the visualization dynamic.
+After visualizing our analysis on different charts, dashboard was created to bring all the information represented on the different charts to one spot and to make the visualization dynamic and interactive.
 
 ![Dashboard](https://github.com/NgoziGoodness/Data-Analysis-in-Excel/assets/164032971/b3883206-43a7-4998-b53f-cf622a259cd7)
 
