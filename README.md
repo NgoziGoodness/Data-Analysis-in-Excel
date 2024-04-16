@@ -16,7 +16,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insight into the sales performance of an apple product retailing company in the past year. By analysing various aspects of the sales data, we want to identify trends, gain depper understanding of the company's performance and make data driven recommendation. The process used in this analysis are broken into 3 major stages_ Data cleaning, exploratory analysis and data visualization using dashboard.
+This data analysis project aims to provide insight into the sales performance of an apple product retailing company in the past year. By analyzing various aspects of the sales data, we want to identify trends, gain dipper understanding of the company's performance and make data driven recommendation. The process used in this analysis are broken into 3 major stages_ Data cleaning, exploratory analysis and data visualization using dashboard.
 
 ### Data Sources
 
@@ -48,7 +48,7 @@ Data cleaning tools:
  ### Data Cleaning/ Preparation
  
  
-The first step taken in this sales analysis project is data cleaning. This was done to remove any outliers, inconsistency and ensure data is ready and suitable for exploratory analysis and viusualization. The data cleaning was done with different data cleaning tools in accordance to the steps written below:
+The first step taken in this sales analysis project is data cleaning. This was done to remove any outliers, inconsistency and ensure data is ready and suitable for exploratory analysis and visualization. The data cleaning was done with different data cleaning tools in accordance to the steps written below:
 - Table: All data in the spreadsheet were formatted as table using the table tool in order to make the data easy to manage and work with
 - Border tool: Borders were inserted into the table using the border tool in the home page in order to highlight data, improve visibility and separate one cell from another.
 - Column header: Each field was formatted using the column header in order to help easily identify what each field is about and how it relates to other fields of data.
@@ -79,7 +79,7 @@ The first step taken in this sales analysis project is data cleaning. This was d
 
 ### Visualization
 
-All anlysis done were represented on different charts as outlined below
+All analysis done were represented on different charts as outlined below
 - Line chart for sales trend
 - Bar charts for sales by region
 - Column charts for sales by products
@@ -91,11 +91,11 @@ After visualizing our analysis on different charts, dashboard was created to bri
 (See uploaded file named "Exploratory data analysis on sales along with dashboard using Excel" file uploaded in repository for details)
 
 
-  ### Results/Fndings
+  ### Results/Findings
 
-  The analysis reults are summerized as follows:
+  The analysis results are summarized as follows:
 
-  1. The company's sales started on a good note in the first month after which sales became inconsistent with little to no improvement but gradually picked up in July with a noticable peak in the month of August followed 
+  1. The company's sales started on a good note in the first month after which sales became inconsistent with little to no improvement but gradually picked up in July with a noticeable peak in the month of August followed 
       by gradual decline and inconsistency in sales with december recording the lowest sales for the year.
   2. Apac has the highest sales record while Emea has the lowest.
   3. Macbook is the highest selling product while Iwatch is the lowest selling product.
@@ -104,10 +104,10 @@ After visualizing our analysis on different charts, dashboard was created to bri
      ### Recommendations
 
      Based on the analysis, we recommend the following actions:
-     - Invest in marketing and promotions during peak sales period to maximise revenue.
+     - Invest in marketing and promotions during peak sales period to maximize revenue.
      - Focus on expanding and promoting Macbooks and Iphones which are the top selling products.
-     - Implement more instore method of selling and its the most effective method.
-     - Invest more in the highest selling regions and implement trategies to duplicate the success in the highest selling region in the lowest selling region.
+     - Implement more instore method of selling because its the most effective method.
+     - Invest more in the highest selling regions and implement strategies to duplicate the success in the highest selling region in the lowest selling region.
     
        ### Reference
        [https://revenuegrid.com/blog/sales-trend-analysis/]
